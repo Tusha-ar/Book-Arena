@@ -1,0 +1,24 @@
+.error{
+    min-height: 91vh;
+    background: black;
+    overflow: hidden;
+    margin-top: -20PX;
+}
+
+
+img{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.ErrorMsg{
+    color: white;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-55%);
+    font-weight: 100;
+}

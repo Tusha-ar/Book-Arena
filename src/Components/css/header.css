@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+    display: flex;
+    margin-left: 30%;
+}
+
+nav{
+    background: #1b262c;
+}
+
+
+.navv li{
+    padding: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    transition-duration: 300ms;
+}
+
+.navv a{
+    text-decoration: none;
+    color: #cfd186;
+}
+
+.navv a:hover{
+    text-decoration: none;
+    color: #f4eeff;
+}
+
+.navv li:hover{
+    background: #003f5c;
+    
+}

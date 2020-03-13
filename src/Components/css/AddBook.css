@@ -1,0 +1,31 @@
+.input{
+    width: 80%;
+    left: 10%;
+}
+
+form{
+    background-color: #ffffff;
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 80%;
+    transform: translate(10%);
+    margin-top: 5%;
+    padding: 80px;
+    background-color: #e0e0e0;
+}
+
+
+.head{
+    position: absolute;
+    bottom: 80%;
+    left: 50%;
+    transform: translate(-55%);
+    margin-bottom: 30px;
+}
+
+
+.custon-btn{
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+}
